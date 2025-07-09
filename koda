@@ -1,0 +1,9 @@
+requirements.txt
+flask
+| Ayar              | Değer                |
+| ----------------- | -------------------- |
+| **Name**          | bahis-analyzer       |
+| **Build Command** | *(boş bırak)*        |
+| **Start Command** | `python uygulama.py` |
+| **Instance Type** | Free                 |
+
